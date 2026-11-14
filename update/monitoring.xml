@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Release xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Applications>
+		<Application>
+			<Name>Audio Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Audio Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+					<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+			<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/monitoring-collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Battery Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Battery Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Disk Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Disk Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues. In addition, parts of the Disk Cleaner have been revised and improved.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Graphics Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Graphics Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues. In addition to these changes, a persistent issue was fixed that prevented the tools menu from opening correctly in multi-monitor environments.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Memory Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Memory Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Network Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Network Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Processor Monitor</Name>
+			<Version>1.11.0</Version>
+			<Build>Stable</Build>
+			<Comment>This is an outdated release of the Monitoring Collection. Please update to the newest version to see additional release information.</Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.11.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is a major release of Processor Monitor to improve usability and performance inclusive application stabilization for certain exceptional cases.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The main focus over the past few weeks has been on replacing APIs that are no longer supported by Windows or have become obsolete with new, native functions; providing the best possible support for the upcoming Windows release 26H2; and fixing bugs and addressing security-related issues.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Should you still encounter any problems with this release, please use as always the feedback or crash form to provide information. You are also welcome to take the opportunity to give feedback on usage, ideas for future releases or other helpful hints for a smooth user experience.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+		<Application>
+			<Name>Health Monitor</Name>
+			<Version>1.1.0</Version>
+			<Build>Stable</Build>
+			<Comment></Comment>
+			<Comments>
+				<Comment>
+					<Text>Release notes for version 1.1.0.0</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>This is an minor update of Health Monitor to improve interaction with Windows and to enhance some cover editor features.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>Please note that the screensaver can only be installed and used properly if you use the installer. If you prefer to install the portable version, please refer to the documentation included in the installation package for further information.</Text>
+					<Color>Black</Color>
+					<Spacing>1</Spacing>
+				</Comment>
+				<Comment>
+					<Text>The complete tool collection can be used at no costs, only some premium feature requires a registration for free. Please remember that I do not earn any income from its use. However, you can support me by donating so that I can provide high quality releases this year again. Even if you cannot provide financial support, you can help spread the software and increase its visibility by sharing it.</Text>
+					<Color>Blue</Color>
+					<Spacing>0</Spacing>
+				</Comment>
+			</Comments>
+			<Documentation>
+				<Help>https://www.alexander-gola.de/monitoring.html</Help>
+				<Notes></Notes>
+				<Privacy>https://www.alexander-gola.de/privacy.html</Privacy>
+			</Documentation>
+			<Stores>
+				<Store>
+					<Provider>SeniorConsulting</Provider>
+					<Page>https://www.alexander-gola.de/monitoring.html</Page>
+					<File>https://www.alexander-gola.de/files/binary/Monitoring%20Collection.exe</File>
+				</Store>
+				<Store>
+					<Provider>Microsoft</Provider>
+					<Page>https://apps.microsoft.com/store/detail/xp99tlgc4rtn7k</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Heise</Provider>
+					<Page>https://www.heise.de/download/product/monitoringcollection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Sourceforge</Provider>
+					<Page>https://sourceforge.net/software/product/Monitoring-Collection</Page>
+					<File></File>
+				</Store>
+				<Store>
+					<Provider>Softpedia</Provider>
+					<Page>https://www.softpedia.com/get/system/monitoring-collection.shtml</Page>
+					<File></File>
+				</Store>
+			</Stores>
+		</Application>
+	</Applications>
+</Release>
